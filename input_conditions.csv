@@ -1,2 +1,2 @@
 flow_m3_s,diameter_m,c_value,suction_lwl,suction_dwl,suction_hwl,discharge_lwl,discharge_dwl,discharge_hwl
-0.347222222,0.7,130,-30,-10,0,30,20,20
+0.347222222,0.7,130,-30,-10,0,20,25,30
